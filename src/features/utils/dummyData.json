@@ -1,0 +1,496 @@
+{
+  "role_name": "Admin",
+  "description": "access admin panel option",
+  "permissions": {
+    "Dashboard": {
+      "access": true,
+      "children": {
+        "Total_Revenue": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Net_Profit": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Online_Transaction": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Average_Receipt": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Total_Customers": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Revenue": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Sales_by_Payment_Method": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Stock_Status": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Operational_Comparison": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Sales_Type": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Customer_Receivables": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Suppliers_Payables": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Expenses": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        }
+      }
+    },
+    "Panels": {
+      "access": true,
+      "children": {
+        "POS_Dashboard": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Waiter": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Kitchen": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        }
+      }
+    },
+    "Items": {
+      "access": true,
+      "children": {
+        "Ingredient_Unit": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Ingredient_category": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Ingredients_List": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Modifier": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Food_Menu_Category": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Food_Menu": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Pre_made_Food": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        }
+      }
+    },
+    "Stocks": {
+      "access": true,
+      "children": {
+        "All_Stocks": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Low_Stocks": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Slow_Moving_Stocks": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Stocks_Adjustments": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        }
+      }
+    },
+    "Purchase": {
+      "access": true,
+      "children": {
+        "Purchase": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Supplier": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Due_Payments": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        }
+      }
+    },
+    "Production": {
+      "access": true,
+      "children": {
+        "Production": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        }
+      }
+    },
+    "Sales": {
+      "access": true,
+      "children": {
+        "Sales": { "view": true, "create": true, "edit": true, "delete": true },
+        "Customer": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Promotion": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        }
+      }
+    },
+    "Expenses": {
+      "access": true,
+      "children": {
+        "Expense_Item": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Expenses": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        }
+      }
+    },
+
+    "Waste_List": {
+      "access": true,
+      "children": {
+        "Waste_List": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        }
+      }
+    },
+    "Attendance": {
+      "access": true,
+      "children": {
+        "Attendance": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        }
+      }
+    },
+    "Reports": {
+      "access": true,
+      "children": {
+        "Register": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Z_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Production_Analysis_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Daily_Summary_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Food_Sale_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Daily_Sales_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Detailed_Sales_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Consumption_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Stock_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Low_Stock_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Profit_Loss_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Supplier_Due_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Customer_Ledger_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Customer_Due_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Purchase_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Expense_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Waste_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Tax_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Attendance_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Food_menu_sales_by_category": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Available_Loyalty_point": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Usage_Loyalty_Point": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Production_Report": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        }
+      }
+    },
+    "User_Management": {
+      "access": true,
+      "children": {
+        "Users": { "view": true, "create": true, "edit": true, "delete": true },
+        "Roles": { "view": true, "create": true, "edit": true, "delete": true }
+      }
+    },
+    "Settings": {
+      "access": true,
+      "children": {
+        "System_Settings": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Printer": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Counter": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Tax_Setting": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Multiple_Currency": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Self_order_Setting": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Reservation_Setting": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Payment_Methods": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Delivery_Partner": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Area_floor": {
+          "view": true,
+          "create": true,
+          "edit": true,
+          "delete": true
+        },
+        "Table": { "view": true, "create": true, "edit": true, "delete": true }
+      }
+    }
+  }
+}

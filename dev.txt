@@ -1,0 +1,15 @@
+Frontend Framework: React + Vite
+UI Components: Flowbite
+Styling: Tailwind CSS
+State Management:
+  - Global State: Redux
+  - Remote State: React Query
+Charts: Chart.js
+Toastfy: React hot toast
+sidebar:react-pro-sidebar
+Form: formik,yup  
+qrcode :qrcode.react
+sortable Row : @dnd-kit/core 
+Search and Select :react-select 
+phone Number : react-phone-number-input
+Date Range Picker : react-date-range,date-fns

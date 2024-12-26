@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color-light: #3490dc;
+  --primary-hover-light: #2779bd;
+  --secondary-color-light: #ffed4a;
+  --secondary-hover-light: #facc15;
+
+  --background-light: #ffffff;
+  --text-light: #333333;
+  --Primary-button-color-light: #ffb400;
+  --Primary-button-hover-light: #ff8c00;
+  --secondary-button-color-light: #d72638;
+  --secondary-button-hover-light: #9c1f24;
+}
+
+[data-theme="dark"] {
+  --primary-color-dark: #1e40af;
+  --secondary-color-dark: #f59e0b;
+  --background-dark: #1f2937;
+  --text-dark: #ffffff;
+}
+
+body {
+  background-color: var(--background-light);
+  color: var(--text-light);
+}
+
+[data-theme="dark"] body {
+  background-color: var(--background-dark);
+  color: var(--text-dark);
+}
+
+button {
+  background-color: var(--primary-color-light);
+}
+
+[data-theme="dark"] button {
+  background-color: var(--primary-color-dark);
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+input::file-selector-button {
+  color: red;
+
+  padding: 0.5em;
+
+  border: thin solid grey;
+
+  border-radius: 3px;
+
+  background-color: red;
+}

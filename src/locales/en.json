@@ -1,0 +1,665 @@
+{
+  "sidebar": {
+    "Dashboard": "Dashboard",
+    "Panels": {
+      "Panels": "Panels",
+      "Pos Dashboard": "POS Dashboard",
+      "Waiter": "Waiter",
+      "Kitchen": "Kitchen"
+    },
+    "Item": {
+      "Item": "Item",
+      "ingredient Category": "Ingredient Category",
+      "ingredient unit": "Ingredient Unit",
+      "ingredient list": "Ingredient List",
+      "Modifier": "Modifier",
+      "FoodMenu category": "Food Menu Category",
+      "Food Menu": "Food Menu",
+      "Pre Made Food": "Pre-Made Food"
+    },
+    "Stocks": {
+      "Stocks": "Stocks",
+      "All Stocks": "All Stocks",
+      "Low Stocks": "Low Stocks",
+      "Slow Moving Stocks": "Slow Moving Stocks",
+      "Stock Adjustment": "Stock Adjustment"
+    },
+    "Purchase": {
+      "Purchase": "Purchase",
+      "Supplier": "Supplier",
+      "Due Payment": "Due Payment"
+    },
+    "Production": "Production",
+    "sales": {
+      "sales": "Sales",
+      "Customer": "Customer",
+      "Promotion": "Promotion"
+    },
+    "Expense": {
+      "Expense": "Expense",
+      "Expense Item": "Expense Item"
+    },
+    "Waste List": "Waste List",
+    "Attendance": "Attendance",
+    "Reports": {
+      "Reports": "Reports",
+      "Register": "Register",
+      "Production Analysis Report": "Production Analysis Report",
+      "Daily Summary": "Daily Summary",
+      "Food Sales Report": "Food Sales Report",
+      "Daily Sales Report": "Daily Sales Report",
+      "Detailed Sales Report": "Detailed Sales Report",
+      "Consumption Report": "Consumption Report",
+      "Stock Report": "Stock Report",
+      "Low Stock Report": "Low Stock Report",
+      "Profit And Loss Report": "Profit And Loss Report",
+      "Supplier Due Report": "Supplier Due Report",
+      "Customer Ledger Report": "Customer Ledger Report",
+      "Customer Due Report": "Customer Due Report",
+      "Purchase Report": "Purchase Report",
+      "Expense Report": "Expense Report",
+      "Waste Report": "Waste Report",
+      "Attendance Report": "Attendance Report",
+      "Food Menu Sales By Category": "Food Menu Sales By Category",
+      "Available Loyality Points": "Available Loyalty Points",
+      "Usage Loyality point Report": "Loyalty Point Usage Report"
+    },
+    "User Management": {
+      "User Management": "User Management",
+      "users": "Users",
+      "Roles": "Roles"
+    },
+    "Settings": {
+      "Settings": "Settings",
+      "System Settings": "System Settings",
+      "Printer": "Printer",
+      "Counter": "Counter",
+      "Currency Settings": "Currency Settings",
+      "Tax Settings": "Tax Settings",
+      "Self Order Settings": "Self Order Settings",
+      "Reservation Settings": "Reservation Settings",
+      "Payment Settings": "Payment Settings",
+      "Delivery Partner": "Delivery Partner",
+      "Area/Floor": "Area/Floor",
+      "Table Settings": "Table Settings"
+    }
+  },
+
+  "dashBoard": {
+    "card": {
+      "Total Revenue": "Total Revenue",
+      "Net Profit": "Net Profit",
+      "Online Transaction": "Online Transaction",
+      "Average Receipt": "Average Receipt",
+      "Total Customers": "Total Customers"
+    },
+    "Revenue": "Revenue",
+    "Sales by Payment Method": {
+      "Sales by Payment Method": "Sales by Payment Method",
+      "Total Sales": "Total Sales",
+      "Cash": "Cash",
+      "Credit Card": "Credit Card",
+      "Check": "Check",
+      "Bank Transfer": "Bank Transfer"
+    },
+    "Stock Status": {
+      "Stock Status": "Stock Status",
+      "Ingredients": "Ingredients",
+      "Stock Range": "Stock Range",
+      "Action": "Action"
+    },
+    "Operational Comparison": {
+      "Operational Comparison": "Operational Comparison",
+      "sales": "Sales",
+      "vendors": "Vendors",
+      "expense": "Expense",
+      "receivables": "Receivables",
+      "payables": "Payables"
+    },
+
+    "Sales Type": "Sales Type",
+
+    "Customer Receivables": {
+      "Customer Receivables": "Customer Receivables",
+      "Serial No.": "Serial No.",
+      "Customer Name": "Customer Name",
+      "Due Amount": "Due Amount"
+    },
+    "Suppliers Payables": {
+      "Suppliers Payables": "Suppliers Payables",
+      "Serial No.": "Serial No.",
+      "Supplier Name": "Supplier Name",
+      "Due Amount": "Due Amount"
+    },
+    "Expenses": {
+      "Expenses": "Expenses",
+      "Serial No.": "Serial No.",
+      "Date": "Date",
+      "Amount": "Amount",
+      "Payment Method": "Payment Method",
+      "Category": "Category",
+      "Responsible Person": "Responsible Person",
+      "Note": "Note",
+      "Added By": "Added By"
+    }
+  },
+  "Panels": {
+    "Menu items": "Menu",
+    "Online": "Online",
+    "Offline": "Offline",
+    "Shift": "Shift",
+    "Draft Sales": "Draft Sales",
+    "Language": "Language",
+    "Recent Sales": "Recent Sales",
+    "Online Orders": "Online Orders",
+    "Reservation List": "Reservation List",
+    "Print Last Invoice": "Print Last Invoice",
+    "Kitchen Notification": "Kitchen Notification",
+
+    "Register": "Register",
+    "Dashboard": "Dashboard",
+    "Customer Display": "Customer Display",
+    "Order Status Screen": "Order Status Screen",
+    "Full Screen": "Full Screen",
+    "Exit Full Screen": "",
+    "Log Out": "Log Out",
+    "Promo": "Promo",
+    "Dine In/Table": "Dine In/Table",
+    "Delivery": "Delivery",
+    "Take Away": "Take Away",
+    "Add Customer": "Add Customer",
+    "Total Payable": "Total Payable",
+    "Quick Invoice": "Quick Invoice",
+    "Draft": "Draft",
+    "Cancel": "Cancel",
+    "Update Order": "Update Order",
+    "Running Details": "Running Details",
+    "Modify Order": "Modify Order",
+    "Order Details": "Order Details",
+    "Reprint KOT": "Repeat KOT",
+    "Invoice": "Invoice",
+    "Bill": "Bill",
+    "Cancel Order": "Cancel Order",
+    "Enter Customer Name": "Enter Customer Name",
+    "Select Waiter": "Select Waiter",
+    "Search Name or code or Category or Any": "Search Name or code or Category or Any",
+    "Total Items": "Total Items",
+    "Sub Total": "Sub Total",
+    "Discount": "Discount",
+    "Total Discount": "Total Discount",
+    "Tax": "Tax",
+    "Charges": "Charges",
+    "Table,Order Number,Waiter": "Table, Order Number, Waiter",
+    "Customer": "Customer",
+    "Order ID ": "Order ID",
+    "Order Type": "Order Type",
+    "Table": "Table",
+    "Waiter": "Waiter",
+    "Token No": "Token No",
+    "All": "All",
+    "Waiting": "Waiting",
+    "Vegetarian": "Vegetarian",
+    "Beverages": "Beverages",
+    "Combo": "Combo",
+    "Edit": "Edit",
+    "Kitchen Panel": "Kitchen Panel",
+    "Add Kitchen": "Add Kitchen",
+    "Sr No.": "Sr No.",
+    "Name": "Name",
+    "Outlet": "Outlet",
+    "Categories": "Categories",
+    "Printer": "Printer",
+    "Action": "Action",
+    "Enter": "Enter",
+    "Waiter's Panel": "Waiter's Panel",
+    "Collect": "Collect",
+    "Remove": "Remove",
+    "Submit": "Submit",
+    "Kitchen": {
+      "Kitchen": "Kitchen",
+      "Add Kitchen": "Add Kitchen",
+      "Add Kitchen for your POS System": "Add Kitchen for your POS System",
+      "Name of Kitchen": "Name of Kitchen",
+      "Enter kitchen name": "Enter kitchen name",
+      "Printer": "Printer",
+      "None": "None",
+      "Categories": "Categories",
+      "Select All": "Select All",
+      "Cancel": "Cancel",
+      "Confirm": "Confirm"
+    }
+  },
+  "Search": "Search",
+  "Are you sure you want to delete this": "Are you sure you want to delete this",
+  "No, cancel": "No, cancel",
+  "Yes, I'm sure": "Yes, I'm sure",
+
+  "System Settings": {
+    "Restaurant Name": "Restaurant Name",
+    "Restaurant Short Name": "Short Name of Restaurant",
+    "Invoice Logo": "Invoice Logo",
+    "Website": "Website",
+    "Date Format": "Date Format",
+    "Currency Symbol": "Currency Symbol",
+    "Currency Position": {
+      "Currency Position": "Currency Position",
+      "Select Currency Position": "Select Currency Position",
+      "After amount": "After Amount",
+      "Before amount": "Before Amount"
+    },
+    "Precision": {
+      "Precision": "Precision",
+      "Select Precision": "Select Precision",
+      "3 Digit": "3 Digits",
+      "2 Digit": "2 Digits"
+    },
+    "Decimal Separator": {
+      "Decimal Separator": "Decimal Separator",
+      "Select Decimal Separator": "Select Decimal Separator",
+      "Point": "Point",
+      "Comma": "Comma",
+      "Space": "Space"
+    },
+    "Thousand Separator": {
+      "Thousand Separator": "Thousand Separator",
+      "Select Thousand Separator": "Select Thousand Separator",
+      "Point": "Point",
+      "Comma": "Comma",
+      "Space": "Space"
+    },
+    "When clicking items on POS": {
+      "When clicking items on POS": "When Clicking Items on POS",
+      "Select When clicking items on POS": "Select Option",
+      "Show Option": "Show Option",
+      "Don't Show Option": "Don't Show Option"
+    },
+    "Default order Type": {
+      "Default order Type": "Default Order Type",
+      "Select Default order Type": "Select Default Order Type",
+      "Dine in": "Dine In",
+      "Take Away": "Take Away",
+      "Delivery": "Delivery",
+      "none": "None"
+    },
+    "Default waiter": {
+      "Select Default waiter": "Select Default Waiter",
+      "Default waiter": "Default Waiter"
+    },
+    "Default payment method": {
+      "Default payment method": "Default Payment Method",
+      "Select Default payment method": "Select Default Payment Method",
+      "Cash": "Cash",
+      "Card": "Card"
+    },
+    "Place order tool tip ( in POS)": {
+      "Place order tool tip ( in POS)": "Place Order Tooltip (in POS)",
+      "Select Place order tool tip ( in POS)": "Select Tooltip",
+      "Show": "Show",
+      "Hide": "Hide"
+    },
+    "Food menu tooltip( in POS)": {
+      "Food menu tooltip( in POS)": "Food Menu Tooltip (in POS)",
+      "Select Food menu tooltip( in POS)": "Select Tooltip",
+      "Show": "Show",
+      "Hide": "Hide"
+    },
+    "SMS sent Auto( in final invoice)": {
+      "SMS sent Auto( in final invoice)": "SMS Sent Automatically (in Final Invoice)",
+      "Select SMS sent Auto( in final invoice)": "Select Auto-Sending",
+      "Yes": "Yes",
+      "No": "No"
+    },
+    "Pre or post payment": {
+      "Pre or post payment": "Pre or Post Payment",
+      "Select Pre or post payment": "Select Pre or Post Payment",
+      "Post payment": "Post Payment",
+      "Pre payment": "Pre Payment"
+    },
+    "Service Charge": "Service Charge",
+    "Delivery Charge": "Delivery Charge",
+    "Active login button": {
+      "Active login button": "Active Login Button",
+      "Select Active login button": "Select Login Button",
+      "Pin": "PIN",
+      "Username & Password": "Username & Password",
+      "Both": "Both"
+    },
+    "Login option": {
+      "Login option": "Login Option",
+      "Select Login option": "Select Login Option",
+      "Pin": "PIN",
+      "Username & Password": "Username & Password",
+      "Both": "Both"
+    },
+    "Loyalty point": {
+      "Loyalty point": "Loyalty Points",
+      "Select Loyalty point": "Select Loyalty Points",
+      "Enable": "Enable",
+      "Disable": "Disable"
+    },
+    "Minimum loyalty point to redeem": "Minimum Loyalty Points to Redeem",
+    "Loyalty point rate": "Loyalty Point Rate",
+    "Export daily sales or reset all sales": {
+      "Export daily sales or reset all sales": "Export Daily Sales or Reset All Sales",
+      "Select Export daily sales or reset all sales": "Select Option",
+      "Enable": "Enable",
+      "Disable": "Disable"
+    },
+    "Reset transaction data": "Reset Transaction Data",
+    "Invoice footer": "Invoice Footer",
+    "Submit": "Submit"
+  },
+  "Printer Settings": {
+    "Printer Settings": "Printer Settings",
+    "Add Printer": "Add Printer",
+    "Sr No.": "Sr No.",
+    "Title": "Title",
+    "Print Type": "Print Type",
+    "Characters Per Line": "Characters Per Line",
+    "Printer IP": "Printer IP",
+    "Port Address": "Port Address",
+    "Port Number": "Port Number",
+    "Share Name": "Share Name",
+    "Action": "Action",
+    "Create Printer": "Create Printer",
+    "Title( to add printer easily)": "Title (to add printer easily)",
+    "Printer type": {
+      "Printer type": "Printer Type",
+      "Browser Popup Print": "Browser Popup Print",
+      "Direct Print": "Direct Print"
+    },
+    "Character per Line": "Characters Per Line",
+    "Printer Port Address": "Printer Port Address",
+    "Back": "Back",
+    "Submit": "Submit"
+  },
+  "Counter Settings": {
+    "Counter Settings": "Counter Settings",
+    "Add Counter": "Add Counter",
+    "Sr No.": "Sr No.",
+    "Counter Name": "Counter Name",
+    "Invoice Printer": "Invoice Printer",
+    "Bill Printer": "Bill Printer",
+    "Description": "Description",
+    "Added By": "Added By",
+    "Action": "Action",
+    "Create Counter": "Create Counter",
+    "Enter the counter name": "Enter the Counter Name",
+    "Select Printer": "Select Printer",
+    "Back": "Back",
+    "Submit": "Submit"
+  },
+  "Tax Settings": {
+    "Tax Settings": "Tax Settings",
+    "Do I collect Tax?": "Do I Collect Tax?",
+    "Yes": "Yes",
+    "No": "No",
+    "Tax Type": "Tax Type",
+    "My Tax Title": "My Tax Title",
+    "My Tax Registration No": "My Tax Registration No",
+    "My Tax is GST": "My Tax is GST",
+    "My Tax Fields": "My Tax Fields",
+    "SN": "SN",
+    "Name": "Name",
+    "Rate": "Rate",
+    "Action": "Action",
+    "Enter Tax Name": "Enter Tax Name",
+    "Enter Tax Rate": "Enter Tax Rate",
+    "Add more": "Add More",
+    "Show Sample Invoice": "Show Sample Invoice",
+    "Confirm": "Confirm"
+  },
+  "Currency Settings": {
+    "Currency Settings": "Currency Settings",
+    "Sr No.": "Sr No.",
+    "Currency symbol": "Currency Symbol",
+    "Conversion Rate": "Conversion Rate",
+    "Action": "Action",
+    "Add Currency": "Add Currency",
+    "Create Currency": "Create Currency",
+    "Select the symbol": "Select the Symbol",
+    "Conversion rate": "Conversion Rate"
+  },
+  "Self Order Settings": {
+    "Self Order Settings": "Self Order Settings",
+    "Enable Self Order": "Enable Self Order",
+    "Off": "Off",
+    "On": "On",
+    "Confirm": "Confirm",
+    "Generate QR Code": "Generate QR Code"
+  },
+  "Reservation Settings": {
+    "Reservation Settings": "Reservation Settings",
+    "Reservation Page URL": "Reservation Page URL",
+    "Availability": "Availability",
+    "Date": "Date",
+    "Start time": "Start Time",
+    "End time": "End Time",
+    "Sunday": "Sunday",
+    "Monday": "Monday",
+    "Tuesday": "Tuesday",
+    "Wednesday": "Wednesday",
+    "Thursday": "Thursday",
+    "Friday": "Friday",
+    "Saturday": "Saturday",
+    "Confirm": "Confirm"
+  },
+  "Payment Settings": {
+    "Payment Settings": "Payment Settings",
+    "S.NO": "Sr No.",
+    "Payment Method": "Payment Method",
+    "Added By": "Added By",
+    "Description": "Description",
+    "Action": "Action",
+    "Add Delivery Partner": "Add Delivery Partner",
+    "Create Payment Method": "Create Payment Method"
+  },
+  "Delivery Settings": {
+    "Delivery Settings": "Delivery Settings",
+    "Add Delivery Partner": "Add Delivery Partner",
+    "Sr No.": "Sr No.",
+    "Name": "Name",
+    "Description": "Description",
+    "Logo": "Logo",
+    "Added By": "Added By",
+    "Action": "Action",
+    "Conversion rate": "Conversion Rate"
+  },
+
+  "Area/Floor Settings": {
+    "Area/Floor Settings": "Area/Floor Settings",
+    "Sr No.": "Sr No.",
+    "Floor Name": "Floor Name",
+    "Description": "Description",
+    "Action": "Action",
+    "Add Area/Floor": "Add Area/Floor",
+    "Create Area/ Floor": "Create Area/Floor"
+  },
+  "Table Settings": {
+    "Sr No.": "Sr No.",
+    "Floor Name": "Floor Name",
+    "Table name": "Table Name",
+    "Seat capacity": "Seat Capacity",
+    "Description": "Description",
+    "Action": "Action",
+    "Add Table": "Add Table"
+  },
+
+  "User Management": {
+    "Users": {
+      "Users": "Users",
+      "User Management": "User Management",
+      "Users Report": "Users Report",
+      "ID": "ID",
+      "NAME": "Name",
+      "PHONE": "Phone",
+      "EMAIL": "Email",
+      "DATE OF JOINING": "Date of Joining",
+      "ROLE": "Role",
+      "ACTION": "Action",
+      "Date": "Date",
+      "Add User": "Add User",
+      "User Name": "User Name",
+      "Mobile": "Mobile",
+      "Email": "Email",
+      "Profile Picture": "Profile Picture",
+      "Password": "Password",
+      "Confirm Password": "Confirm Password",
+      "Role": "Role",
+      "Select Role": "Select Role",
+      "Enable Login": "Enable Login",
+      "Govt. Proof": "Government Proof",
+      "Drag and Drop the file": "Drag and Drop the File"
+    },
+    "Roles": {
+      "Roles": "Roles",
+      "Roles And Permission": "Roles and Permissions",
+      "Add Roles": "Add Roles",
+      "Role Name": "Role Name",
+      "Description": "Description",
+      "TOTAL USER": "Total Users",
+      "ACTION": "Action",
+      "Role": "Role"
+    },
+    "Dashboard": {
+      "Dashboard": "Dashboard",
+      "Total Revenue": "Total Revenue",
+      "Net Profit": "Net Profit",
+      "Online Transaction": "Online Transaction",
+      "Average Receipt": "Average Receipt",
+      "Total Customers": "Total Customers",
+      "Revenue": "Revenue",
+      "Sales by Payment Method": "Sales by Payment Method",
+      "Stock Status": "Stock Status",
+      "Operational Comparison": "Operational Comparison",
+      "Sales Type": "Sales Type",
+      "Customer Receivables": "Customer Receivables",
+      "Suppliers Payables": "Suppliers Payables",
+      "Expenses": "Expenses"
+    },
+    "Panels": {
+      "POS Dashboard": "POS Dashboard",
+      "Waiter": "Waiter",
+      "Kitchen": "Kitchen"
+    },
+    "Items": {
+      "Items": "Items",
+      "Ingredient Unit": "Ingredient Unit",
+      "Ingredient category": "Ingredient Category",
+      "Ingredients List": "Ingredients List",
+      "Modifier": "Modifier",
+      "Food Menu Category": "Food Menu Category",
+      "Food Menu": "Food Menu",
+      "Pre made Food": "Pre-made Food"
+    },
+    "Stocks": {
+      "Stocks": "Stocks",
+      "All Stocks": "All Stocks",
+      "Low Stocks": "Low Stocks",
+      "Slow Moving Stocks": "Slow Moving Stocks",
+      "Stocks Adjustments": "Stocks Adjustments"
+    },
+    "Purchase": {
+      "Purchase": "Purchase",
+      "Supplier": "Supplier",
+      "Due Payments": "Due Payments"
+    },
+    "Sales": {
+      "Sales": "Sales",
+      "Customer": "Customer",
+      "Promotion": "Promotion"
+    },
+    "Expenses": {
+      "Expense Item": "Expense Item",
+      "Expenses": "Expenses"
+    },
+    "Waste List": {
+      "Waste List": "Waste List"
+    },
+    "Attendance": {
+      "Attendance": "Attendance"
+    },
+    "Production": {
+      "Production": "Production"
+    },
+    "User Management": {
+      "User Management": "User Management",
+      "Users": "Users",
+      "Roles": "Roles"
+    },
+    "Reports": {
+      "Reports": "Reports",
+      "Register": "Register",
+      "Z Report": "Z Report",
+      "Production Analysis Report": "Production Analysis Report",
+      "Daily Summary Report": "Daily Summary Report",
+      "Food Sale Report": "Food Sale Report",
+      "Daily Sales Report": "Daily Sales Report",
+      "Detailed Sales Report": "Detailed Sales Report",
+      "Consumption Report": "Consumption Report",
+      "Stock Report": "Stock Report",
+      "Low Stock Report": "Low Stock Report",
+      "Profit Loss Report": "Profit and Loss Report",
+      "Supplier Due Report": "Supplier Due Report",
+      "Customer Ledger Report": "Customer Ledger Report",
+      "Customer Due Report": "Customer Due Report",
+      "Purchase Report": "Purchase Report",
+      "Expense Report": "Expense Report",
+      "Waste Report": "Waste Report",
+      "Tax Report": "Tax Report",
+      "Attendance Report": "Attendance Report",
+      "Food menu sales by category": "Food Menu Sales by Category",
+      "Available Loyalty point": "Available Loyalty Points",
+      "Usage Loyalty Point": "Usage of Loyalty Points",
+      "Production Report": "Production Report"
+    },
+    "Settings": {
+      "Settings": "Settings",
+      "System Settings": "System Settings",
+      "Printer": "Printer",
+      "Counter": "Counter",
+      "Tax Setting": "Tax Setting",
+      "Multiple Currency": "Multiple Currency",
+      "Self order Setting": "Self Order Setting",
+      "Reservation Setting": "Reservation Setting",
+      "Payment Methods": "Payment Methods",
+      "Delivery Partner": "Delivery Partner",
+      "Area floor": "Area/Floor",
+      "Table": "Table"
+    }
+  },
+
+  "Attendance": {
+    "Attendance": "Attendance",
+    "Attendance List": "Attendance List",
+    "Add Attendance": "Add Attendance",
+    "Sr. No": "Sr. No",
+    "Reference. No": "Reference No",
+    "name": "Name",
+    "Date": "Date",
+    "In Time": "In Time",
+    "Out Time": "Out Time",
+    "Update Time": "Update Time",
+    "Time Count": "Time Count",
+    "Note": "Note",
+    "Added by": "Added By",
+    "Action": "Action",
+    "Add attendance details": "Add Attendance Details",
+    "Reference Date": "Reference Date",
+    "Name": "Name",
+    "Select Name": "Select Name"
+  },
+  "Waste List": {
+    "Waste List": "Waste List",
+    "Add Waste": "Add Waste",
+    "Sr.No": "Sr. No",
+    "Referance": "Reference",
+    "Date": "Date",
+    "Total Loss": "Total Loss",
+    "Ingredient Count": "Ingredient Count",
+    "Responsible Person": "Responsible Person",
+    "Note": "Note",
+    "Added By": "Added By",
+    "Action": "Action"
+  }
+}

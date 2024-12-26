@@ -1,0 +1,657 @@
+{
+  "sidebar": {
+    "Dashboard": "Armaturenbrett",
+    "Panels": {
+      "Panels": "Panels",
+      "Pos Dashboard": "Pos-Dashboard",
+      "Waiter": "Kellner",
+      "Kitchen": "Küche"
+    },
+    "Item": {
+      "Item": "Artikel",
+      "ingredient Category": "Zutatenkategorie",
+      "ingredient unit": "Zutateneinheit",
+      "ingredient list": "Zutatenliste",
+      "Modifier": "Modifikator",
+      "FoodMenu category": "Kategorie „Lebensmittelmenü“.",
+      "Food Menu": "Speisenkarte",
+      "Pre Made Food": "Fertiggerichte"
+    },
+    "Stocks": {
+      "Stocks": "Aktien",
+      "All Stocks": "Alle Aktien",
+      "Low Stocks": "Geringe Lagerbestände",
+      "Slow Moving Stocks": "Langsame Aktien",
+      "Stock Adjustment": "Bestandsanpassung"
+    },
+    "Purchase": {
+      "Purchase": "Kaufen",
+      "Supplier": "Anbieterin",
+      "Due Payment": "Fällige Zahlung"
+    },
+    "Production": "Produktion",
+    "sales": {
+      "sales": "Verkäufe",
+      "Customer": "Kundin",
+      "Promotion": "Förderung"
+    },
+    "Expense": {
+      "Expense": "Kosten",
+      "Expense Item": "Aufwandsposten"
+    },
+    "Waste List": "Abfallliste",
+    "Attendance": "Teilnahme",
+    "Reports": {
+      "Reports": "Berichte",
+      "Register": "Registrieren",
+      "Production Analysis Report": "Produktionsanalysebericht",
+      "Daily Summary": "Tägliche Zusammenfassung",
+      "Food Sales Report": "Lebensmittelverkaufsbericht",
+      "Daily Sales Report": "Täglicher Verkaufsbericht",
+      "Detailed Sales Report": "Detaillierter Verkaufsbericht",
+      "Consumption Report": "Verbrauchsbericht",
+      "Stock Report": "Aktienbericht",
+      "Low Stock Report": "Bericht über niedrige Lagerbestände",
+      "Profit And Loss Report": "Gewinn- und Verlustbericht",
+      "Supplier Due Report": "Fälligkeitsbericht des Lieferanten",
+      "Customer Ledger Report": "Kundenbuchbericht",
+      "Customer Due Report": "Customer Due Report",
+      "Purchase Report": "Kaufbericht",
+      "Expense Report": "Spesenabrechnung",
+      "Waste Report": "Abfallbericht",
+      "Attendance Report": "Anwesenheitsbericht",
+      "Food Menu Sales By Category": "Verkäufe auf der Speisekarte nach Kategorie",
+      "Available Loyality Points": "Available Loyality Points",
+      "Usage Loyality point Report": "Bericht zur Nutzung von Treuepunkten"
+    },
+    "User Management": {
+      "User Management": "Benutzerverwaltung",
+      "users": "Benutzer",
+      "Roles": "Rollen"
+    },
+    "Settings": {
+      "Settings": "Einstellungen",
+      "System Settings": "Systemeinstellungen",
+      "Counter ": "Schalter",
+      "Currency Settings": "Währungseinstellungen",
+      "Tax Settings": "Steuereinstellungen",
+      "Self Order Settings": "Selbstbestellungseinstellungen",
+      "Reservation Settings": "Reservierungseinstellungen",
+      "Payment Settings": "Zahlungseinstellungen",
+      "Delivery Partner": "Lieferpartner",
+      "Area/Floor": "Fläche/Etage",
+      "Table Settings": "Tabelleneinstellungen"
+    }
+  },
+  "dashBoard": {
+    "card": {
+      "Total Revenue": "Gesamtumsatz",
+      "Net Profit": "Reingewinn",
+      "Online Transaction": "Online-Transaktion",
+      "Average Receipt": "Durchschnittlicher Empfang",
+      "Total Customers": "Gesamtzahl der Kunden"
+    },
+    "Revenue": "Einnahmen",
+    "Sales by Payment Method": {
+      "Sales by Payment Method": "Verkäufe nach Zahlungsart",
+      "Total Sales": "Gesamtumsatz",
+      "Cash": "Kasse",
+      "Credit Card": "Kreditkarte",
+      "Check": "Überprüfen",
+      "Bank Transfer": "Banküberweisung"
+    },
+    "Stock Status": {
+      "Stock Status": "Lagerstatus",
+      "Ingredients": "Zutaten",
+      "Stock Range": "Bestandsspanne",
+      "Action": "Aktion"
+    },
+    "Operational Comparison": {
+      "Operational Comparison": "Betriebsvergleich",
+      "sales": "Verkäufe",
+      "vendors": "Anbieterinnen",
+      "expense": "Aufwand",
+      "receivables": "Forderungen",
+      "payables": "Verbindlichkeiten"
+    },
+    "Sales Type": "Verkaufstyp",
+
+    "Customer Receivables": {
+      "Customer Receivables": "Kundenforderungen",
+      "Serial No.": "Seriennummer.",
+      "Customer Name": "Kundenname",
+      "Due Amount": "Fälliger Betrag"
+    },
+    "Suppliers Payables": {
+      "Suppliers Payables": "Verbindlichkeiten gegenüber Lieferanten",
+      "Serial No.": "Seriennummer.",
+      "Supplier Name": "Name des Lieferanten",
+      "Due Amount": "Fälliger Betrag"
+    },
+    "Expenses": {
+      "Expenses": "Kosten",
+      "Serial No.": "Seriennummer.",
+      "Date": "Datum",
+      "Amount": "Menge",
+      "Payment Method": "Zahlungsmethode",
+      "Category": "Kategorie",
+      "Responsible Person": "Verantwortliche Person",
+      "Note": "Notiz",
+      "Added By": "Hinzugefügt von"
+    }
+  },
+  "Panels": {
+    "Menu items": "Menü",
+    "Shift": "Schicht",
+    "Online": "Online",
+    "Offline": "Offline",
+    "Draft Sales": "Entwurfsverkäufe",
+    "Language": "Sprache",
+    "Recent Sales": "Neueste Verkäufe",
+    "Online Orders": "Online-Bestellungen",
+    "Reservation List": "Reservierungsliste",
+    "Print Last Invoice": "Letzte Rechnung drucken",
+    "Kitchen Notification": "Küchenbenachrichtigung",
+    "Register": "Registrieren",
+    "Dashboard": "Dashboard",
+    "Customer Display": "Kundenanzeige",
+    "Order Status Screen": "Bestellstatus-Bildschirm",
+    "Full Screen": "Vollbild",
+    "Exit Full Screen": "",
+    "Log Out": "Abmelden",
+    "Promo": "Promo",
+    "Dine In/Table": "Vor Ort /Tisch",
+    "Delivery": "Lieferung",
+    "Take Away": "Mitnehmen",
+    "Add Customer": "Kunden hinzufügen",
+    "Total Payable": "Gesamtbetrag",
+    "Quick Invoice": "Schnellrechnung",
+    "Draft": "Entwurf",
+    "Cancel": "Abbrechen",
+    "Update Order": "Bestellung aktualisieren",
+    "Running Details": "Laufende Details",
+    "Modify Order": "Bestellung ändern",
+    "Order Details": "Bestelldetails",
+    "Reprint KOT": "KOT wiederholen",
+    "Invoice": "Rechnung",
+    "Bill": "Rechnung",
+    "Cancel Order": "Bestellung stornieren",
+    "Enter Customer Name": "Kundennamen eingeben",
+    "Select Waiter": "Kellner auswählen",
+    "Search Name or code or Category or Any": "Name, Code, Kategorie oder anderes suchen",
+    "Total Items": "Gesamtanzahl Artikel",
+    "Sub Total": "Zwischensumme",
+    "Discount": "Rabatt",
+    "Total Discount": "Gesamtrabatt",
+    "Tax": "Steuer",
+    "Charges": "Gebühren",
+    "Table,Order Number,Waiter": "Tisch, Bestellnummer, Kellner",
+    "Customer": "Kunde",
+    "Order ID ": "Bestell-ID",
+    "Order Type": "Bestellart",
+    "Table": "Tisch",
+    "Waiter": "Kellner",
+    "Kitchen Panel": "Küchenpanel ",
+    "Token No": "Token-Nummer",
+    "All": "Alle",
+    "Waiting": "Warten",
+    "Vegetarian": "Vegetarisch",
+    "Beverages": "Getränke",
+    "Combo": "Kombination",
+    "Edit": "Bearbeiten",
+    "Add Kitchen": "Küche hinzufügen",
+    "Sr No.": "Nr.",
+    "Name": "Name",
+    "Outlet": "Filiale",
+    "Categories": "Kategorien",
+    "Printer": "Drucker",
+    "Action": "Aktion",
+    "Enter": "Eingeben",
+    "Waiter's Panel": "Kellner-Panel",
+    "Collect": "Einsammeln",
+    "Remove": "Entfernen",
+    "Submit": "Submit",
+    "Kitchen": {
+      "Kitchen": "hinzufügen",
+      "Add Kitchen": "Küche hinzufügen",
+      "Add Kitchen for your POS System": "Küche für Ihr POS-System hinzufügen",
+      "Name of Kitchen": "Name der Küche",
+      "Enter kitchen name": "Küchennamen eingeben",
+      "Printer": "Drucker",
+      "None": "Keine",
+      "Categories": "Kategorien",
+      "Select All": "Alles auswählen",
+      "Cancel": "Abbrechen",
+      "Confirm": "Bestätigen"
+    }
+  },
+  "Search": "Suchen",
+  "Are you sure you want to delete this": "Sind Sie sicher, dass Sie dies löschen möchten",
+  "No, cancel": "Nein, abbrechen",
+  "Yes, I'm sure": "Ja, ich bin sicher",
+  "System Settings": {
+    "Restaurant Name": "Restaurantname",
+    "Restaurant Short Name": "Kurzname des Restaurants",
+    "Invoice Logo": "Rechnungslogo",
+    "Website": "Website",
+    "Date Format": "Datumsformat",
+    "Currency Symbol": "Währungssymbol",
+    "Currency Position": {
+      "Currency Position": "Währungsposition",
+      "Select Currency Position": "Währungsposition auswählen",
+      "After amount": "Nach Betrag",
+      "Before amount": "Vor Betrag"
+    },
+    "Precision": {
+      "Precision": "Genauigkeit",
+      "Select Precision": "Genauigkeit auswählen",
+      "3 Digit": "3 Stellen",
+      "2 Digit": "2 Stellen"
+    },
+    "Decimal Separator": {
+      "Decimal Separator": "Dezimaltrennzeichen",
+      "Select Decimal Separator": "Dezimaltrennzeichen auswählen",
+      "Point": "Punkt",
+      "Comma": "Komma",
+      "Space": "Leerzeichen"
+    },
+    "Thousand Separator": {
+      "Thousand Separator": "Tausendertrennzeichen",
+      "Select Thousand Separator": "Tausendertrennzeichen auswählen",
+      "Point": "Punkt",
+      "Comma": "Komma",
+      "Space": "Leerzeichen"
+    },
+    "When clicking items on POS": {
+      "When clicking items on POS": "Beim Klicken auf Artikel im POS",
+      "Select When clicking items on POS": "Option auswählen",
+      "Show Option": "Option anzeigen",
+      "Don't Show Option": "Option nicht anzeigen"
+    },
+    "Default order Type": {
+      "Default order Type": "Standard-Bestelltyp",
+      "Select Default order Type": "Standard-Bestelltyp auswählen",
+      "Dine in": "Im Restaurant essen",
+      "Take Away": "Mitnehmen",
+      "Delivery": "Lieferung",
+      "none": "Keiner"
+    },
+    "Default waiter": {
+      "Select Default waiter": "Standard-Kellner auswählen",
+      "Default waiter": "Standard-Kellner"
+    },
+    "Default payment method": {
+      "Default payment method": "Standard-Zahlungsmethode",
+      "Select Default payment method": "Standard-Zahlungsmethode auswählen",
+      "Cash": "Bargeld",
+      "Card": "Karte"
+    },
+    "Place order tool tip ( in POS)": {
+      "Place order tool tip ( in POS)": "Bestellung aufgeben Tooltip (im POS)",
+      "Select Place order tool tip ( in POS)": "Tooltip auswählen",
+      "Show": "Anzeigen",
+      "Hide": "Ausblenden"
+    },
+    "Food menu tooltip( in POS)": {
+      "Food menu tooltip( in POS)": "Speisekarten-Tooltip (im POS)",
+      "Select Food menu tooltip( in POS)": "Tooltip auswählen",
+      "Show": "Anzeigen",
+      "Hide": "Ausblenden"
+    },
+    "SMS sent Auto( in final invoice)": {
+      "SMS sent Auto( in final invoice)": "SMS automatisch senden (auf der Endrechnung)",
+      "Select SMS sent Auto( in final invoice)": "Automatisches Senden auswählen",
+      "Yes": "Ja",
+      "No": "Nein"
+    },
+    "Pre or post payment": {
+      "Pre or post payment": "Vor- oder Nachzahlung",
+      "Select Pre or post payment": "Vor- oder Nachzahlung auswählen",
+      "Post payment": "Nachzahlung",
+      "Pre payment": "Vorauszahlung"
+    },
+    "Service Charge": "Servicegebühr",
+    "Delivery Charge": "Liefergebühr",
+    "Active login button": {
+      "Active login button": "Aktiver Login-Button",
+      "Select Active login button": "Login-Button auswählen",
+      "Pin": "PIN",
+      "Username & Password": "Benutzername & Passwort",
+      "Both": "Beides"
+    },
+    "Login option": {
+      "Login option": "Login-Option",
+      "Select Login option": "Login-Option auswählen",
+      "Pin": "PIN",
+      "Username & Password": "Benutzername & Passwort",
+      "Both": "Beides"
+    },
+    "Loyalty point": {
+      "Loyalty point": "Treuepunkte",
+      "Select Loyalty point": "Treuepunkte auswählen",
+      "Enable": "Aktivieren",
+      "Disable": "Deaktivieren"
+    },
+    "Minimum loyalty point to redeem": "Mindest-Treuepunkte für Einlösung",
+    "Loyalty point rate": "Treuepunkterate",
+    "Export daily sales or reset all sales": {
+      "Export daily sales or reset all sales": "Tägliche Verkäufe exportieren oder alle Verkäufe zurücksetzen",
+      "Select Export daily sales or reset all sales": "Option auswählen",
+      "Enable": "Aktivieren",
+      "Disable": "Deaktivieren"
+    },
+    "Reset transaction data": "Transaktionsdaten zurücksetzen",
+    "Invoice footer": "Rechnungsfuß",
+    "Submit": "Einreichen"
+  },
+  "Printer Settings": {
+    "Printer Settings": "Druckereinstellungen",
+    "Add Printer": "Drucker hinzufügen",
+    "Sr No.": "Nr.",
+    "Title": "Titel",
+    "Print Type": "Drucktyp",
+    "Characters Per Line": "Zeichen pro Zeile",
+    "Printer IP": "Drucker-IP",
+    "Port Address": "Port-Adresse",
+    "Port Number": "Port-Nummer",
+    "Share Name": "Freigabename",
+    "Action": "Aktion",
+    "Create Printer": "Drucker erstellen",
+    "Title( to add printer easily)": "Titel (zum einfachen Hinzufügen eines Druckers)",
+    "Printer type": {
+      "Printer type": "Druckertyp",
+      "Browser Popup Print": "Browser-Popup-Druck",
+      "Direct Print": "Direktdruck"
+    },
+    "Character per Line": "Zeichen pro Zeile",
+    "Printer Port Address": "Drucker-Port-Adresse",
+    "Back": "Zurück",
+    "Submit": "Einreichen"
+  },
+  "Counter Settings": {
+    "Counter Settings": "Thekeneinstellungen",
+    "Add Counter": "Theke hinzufügen",
+    "Sr No.": "Nr.",
+    "Counter Name": "Thekenname",
+    "Invoice Printer": "Rechnungsdrucker",
+    "Bill Printer": "Rechnungsdrucker",
+    "Description": "Beschreibung",
+    "Added By": "Hinzugefügt von",
+    "Action": "Aktion",
+    "Create  Counter": "Theke erstellen",
+    "Enter the counter name  ": "Thekennamen eingeben",
+    "Select Printer": "Drucker auswählen",
+    "Back": "Zurück",
+    "Submit": "Einreichen"
+  },
+  "Tax Settings": {
+    "Tax Settings": "Steuereinstellungen",
+    "Do I collect Tax?": "Erhebe ich Steuern?",
+    "Yes": "Ja",
+    "No": "Nein",
+    "Tax Type": "Steuerart",
+    "My Tax Title": "Mein Steuertitel",
+    "My Tax Registration No": "Meine Steuerregistrierungsnummer",
+    "My Tax is GST": "Meine Steuer ist GST",
+    "My Tax Fields": "Meine Steuerfelder",
+    "SN": "Nr.",
+    "Name": "Name",
+    "Rate": "Satz",
+    "Action": "Aktion",
+    "Enter Tax Name": "Steuernamen eingeben",
+    "Enter Tax Rate": "Steuersatz eingeben",
+    "Add more": "Mehr hinzufügen",
+    "Show Sample Invoice": "Beispielrechnung anzeigen",
+    "Confirm": "Bestätigen"
+  },
+  "Currency Settings": {
+    "Currency Settings": "Währungseinstellungen",
+    "Sr No.": "Nr.",
+    "Currency symbol": "Währungssymbol",
+    "Conversion Rate": "Umrechnungskurs",
+    "Action": "Aktion",
+    "Add Currency": "Währung hinzufügen",
+    "Create Currency": "Währung erstellen",
+    "Select the symbol": "Symbol auswählen",
+    "Conversion rate": "Umrechnungskurs"
+  },
+  "Self Order Settings": {
+    "Self Order Settings": "Selbstbestell-Einstellungen",
+    "Enable Self Order": "Selbstbestellung aktivieren",
+    "Off": "Aus",
+    "On": "An",
+    "Confirm": "Bestätigen",
+    "Generate QR Code": "QR-Code generieren"
+  },
+  "Reservation Settings": {
+    "Reservation Settings": "Reservierungseinstellungen",
+    "Reservation Page URL": "URL der Reservierungsseite",
+    "Availability": "Verfügbarkeit",
+    "Date": "Datum",
+    "Start time": "Startzeit",
+    "End time": "Endzeit",
+    "Sunday": "Sonntag",
+    "Monday": "Montag",
+    "Tuesday": "Dienstag",
+    "Wednesday": "Mittwoch",
+    "Thursday": "Donnerstag",
+    "Friday": "Freitag",
+    "Saturday": "Samstag",
+    "Confirm": "Bestätigen"
+  },
+  "Payment Settings": {
+    "Payment Settings": "Zahlungseinstellungen",
+    "S.NO": "Nr.",
+    "Payment Method": "Zahlungsmethode",
+    "Added By": "Hinzugefügt von",
+    "Description": "Beschreibung",
+    "Action": "Aktion",
+    "Add Delivery Partner": "Lieferpartner hinzufügen",
+    "Create Payment Method": "Zahlungsmethode erstellen"
+  },
+  "Delivery Settings": {
+    "Delivery Settings": "Lieferungseinstellungen",
+    "Add Delivery Partner": "Lieferpartner hinzufügen",
+    "Sr No.": "Nr.",
+    "Name": "Name",
+    "Description": "Beschreibung",
+    "Logo": "Logo",
+    "Added By": "Hinzugefügt von",
+    "Action": "Aktion",
+    "Conversion rate": "Umrechnungskurs"
+  },
+  "Area/Floor Settings": {
+    "Area/Floor Settings": "Bereich-/Etagen-Einstellungen",
+    "Sr No.": "Nr.",
+    "Floor Name": "Etagenname",
+    "Description": "Beschreibung",
+    "Action": "Aktion",
+    "Add Area/Floor": "Bereich/Etage hinzufügen",
+    "Create Area/ Floor": "Bereich/Etage erstellen"
+  },
+  "Table Settings": {
+    "Sr No.": "Nr.",
+    "Floor Name": "Etagenname",
+    "Table name": "Tischname",
+    "Seat capacity": "Sitzkapazität",
+    "Description": "Beschreibung",
+    "Action": "Aktion",
+    "Add Table": "Tisch hinzufügen"
+  },
+  "User Management": {
+    "Users": {
+      "Users": "Benutzer",
+      "User Management": "Benutzerverwaltung",
+      "Users Report": "Benutzerbericht",
+      "ID": "ID",
+      "NAME": "Name",
+      "PHONE": "Telefon",
+      "EMAIL": "E-Mail",
+      "DATE OF JOINING": "Beitrittsdatum",
+      "ROLE": "Rolle",
+      "ACTION": "Aktion",
+      "Date": "Datum",
+      "Add User": "Benutzer hinzufügen",
+      "User Name": "Benutzername",
+      "Mobile": "Handy",
+      "Email": "E-Mail",
+      "Profile Picture": "Profilbild",
+      "Password": "Passwort",
+      "Confirm Password": "Passwort bestätigen",
+      "Role": "Rolle",
+      "Select Role": "Rolle auswählen",
+      "Enable Login": "Login aktivieren",
+      "Govt. Proof": "Behördlicher Nachweis",
+      "Drag and Drop the file": "Datei ziehen und ablegen"
+    },
+    "Roles": {
+      "Roles": "Rollen",
+      "Roles And Permission": "Rollen und Berechtigungen",
+      "Add Roles": "Rollen hinzufügen",
+      "Role Name": "Rollenname",
+      "Description": "Beschreibung",
+      "TOTAL USER": "Gesamte Benutzer",
+      "ACTION": "Aktion",
+      "Role": "Rolle"
+    },
+    "Dashboard": {
+      "Dashboard": "Dashboard",
+      "Total Revenue": "Gesamteinnahmen",
+      "Net Profit": "Nettogewinn",
+      "Online Transaction": "Online-Transaktion",
+      "Average Receipt": "Durchschnittsbeleg",
+      "Total Customers": "Gesamtkunden",
+      "Revenue": "Einnahmen",
+      "Sales by Payment Method": "Verkäufe nach Zahlungsmethode",
+      "Stock Status": "Bestandsstatus",
+      "Operational Comparison": "Betriebsvergleich",
+      "Sales Type": "Verkaufstyp",
+      "Customer Receivables": "Kundenforderungen",
+      "Suppliers Payables": "Lieferantenverbindlichkeiten",
+      "Expenses": "Ausgaben"
+    },
+    "Panels": {
+      "POS Dashboard": "POS-Dashboard",
+      "Waiter": "Kellner",
+      "Kitchen": "Küche"
+    },
+    "Items": {
+      "Items": "Artikel",
+      "Ingredient Unit": "Zutateneinheit",
+      "Ingredient category": "Zutatenkategorie",
+      "Ingredients List": "Zutatenliste",
+      "Modifier": "Modifier",
+      "Food Menu Category": "Speisekategorien",
+      "Food Menu": "Speisekarte",
+      "Pre made Food": "Vorgefertigte Speisen"
+    },
+    "Stocks": {
+      "Stocks": "Bestände",
+      "All Stocks": "Alle Bestände",
+      "Low Stocks": "Geringe Bestände",
+      "Slow Moving Stocks": "Langsam bewegte Bestände",
+      "Stocks Adjustments": "Bestandsanpassungen"
+    },
+    "Purchase": {
+      "Purchase": "Einkauf",
+      "Supplier": "Lieferant",
+      "Due Payments": "Fällige Zahlungen"
+    },
+    "Sales": {
+      "Sales": "Verkäufe",
+      "Customer": "Kunde",
+      "Promotion": "Werbung"
+    },
+    "Expenses": {
+      "Expense Item": "Ausgabeposten",
+      "Expenses": "Ausgaben"
+    },
+    "Waste List": {
+      "Waste List": "Abfallliste"
+    },
+    "Attendance": {
+      "Attendance": "Anwesenheit"
+    },
+    "Production": {
+      "Production": "Produktion"
+    },
+    "User Management": {
+      "User Management": "Benutzerverwaltung",
+      "Users": "Benutzer",
+      "Roles": "Rollen"
+    },
+    "Reports": {
+      "Reports": "Berichte",
+      "Register": "Registrieren",
+      "Z Report": "Z-Bericht",
+      "Production Analysis Report": "Produktionsanalysebericht",
+      "Daily Summary Report": "Täglicher Zusammenfassungsbericht",
+      "Food Sale Report": "Speiseverkaufsbericht",
+      "Daily Sales Report": "Täglicher Verkaufsbericht",
+      "Detailed Sales Report": "Detaillierter Verkaufsbericht",
+      "Consumption Report": "Verbrauchsbericht",
+      "Stock Report": "Lagerbericht",
+      "Low Stock Report": "Niedrigbestandbericht",
+      "Profit Loss Report": "Gewinn- und Verlustbericht",
+      "Supplier Due Report": "Fälligkeitsbericht für Lieferanten",
+      "Customer Ledger Report": "Kundenkontobericht",
+      "Customer Due Report": "Fälligkeiten der Kunden",
+      "Purchase Report": "Einkaufsbericht",
+      "Expense Report": "Ausgabenbericht",
+      "Waste Report": "Abfallbericht",
+      "Tax Report": "Steuerbericht",
+      "Attendance Report": "Anwesenheitsbericht",
+      "Food menu sales by category": "Speisekartenverkauf nach Kategorie",
+      "Available Loyalty point": "Verfügbare Treuepunkte",
+      "Usage Loyalty Point": "Nutzung von Treuepunkten",
+      "Production Report": "Produktionsbericht"
+    },
+    "Settings": {
+      "Settings": "Einstellungen",
+      "System Settings": "Systemeinstellungen",
+      "Printer": "Drucker",
+      "Counter": "Kasse",
+      "Tax Setting": "Steuereinstellung",
+      "Multiple Currency": "Mehrere Währungen",
+      "Self order Setting": "Selbstbestellungseinstellungen",
+      "Reservation Setting": "Reservierungseinstellungen",
+      "Payment Methods": "Zahlungsmethoden",
+      "Delivery Partner": "Lieferpartner",
+      "Area floor": "Bereich/Etage",
+      "Table": "Tisch"
+    }
+  },
+  "Attendance": {
+    "Attendance": "Anwesenheit",
+    "Attendance List": "Anwesenheitsliste",
+    "Add Attendance": "Anwesenheit hinzufügen",
+    "Sr. No": "Nr.",
+    "Reference. No": "Referenz-Nr.",
+    "name": "Name",
+    "Date": "Datum",
+    "In Time": "Eingangszeit",
+    "Out Time": "Ausgangszeit",
+    "Update Time": "Zeit aktualisieren",
+    "Time Count": "Zeitaufzeichnung",
+    "Note": "Notiz",
+    "Added by": "Hinzugefügt von",
+    "Action": "Aktion",
+    "Add attendance details": "Anwesenheitsdetails hinzufügen",
+    "Reference Date": "Referenzdatum",
+    "Name": "Name",
+    "Select Name": "Name auswählen"
+  },
+  "Waste List": {
+    "Waste List": "Abfallliste",
+    "Add Waste": "Abfall hinzufügen",
+    "Sr.No": "Nr.",
+    "Referance": "Referenz",
+    "Date": "Datum",
+    "Total Loss": "Gesamtverlust",
+    "Ingredient Count": "Zutatenanzahl",
+    "Responsible Person": "Verantwortliche Person",
+    "Note": "Notiz",
+    "Added By": "Hinzugefügt von",
+    "Action": "Aktion"
+  }
+}
